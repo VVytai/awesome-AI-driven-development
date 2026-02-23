@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **498 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **504 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -121,6 +121,8 @@ Plugins and extensions for popular IDEs and text editors.
 - [vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [Claude Code Config](https://github.com/drewipson/claude-code-config) - A VS Code extension for managing Claude Code configurations
 - [Antigravity Quota Watcher](https://github.com/Henrik-3/AntigravityQuota) - A lightweight VS Code extension that monitors your Antigravity AI model usage quota and displays it in the status bar.
+- [Antigravity Pulse](https://github.com/codavidgarcia/antigravity-pulse) - 100% local & private. Super lightweight. A 120 KB status bar extension for Antigravity Pro & Ultra users who want to monitor their AI model quota at a glance
+- [Pixel Agents](https://github.com/pablodelucca/pixel-agents) - A VS Code extension that turns your AI coding agents into animated pixel art characters in a virtual office.
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - A Neovim plugin designed to emulate the behaviour of the Cursor AI IDE
@@ -253,6 +255,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [Strix](https://github.com/usestrix/strix) - Open-source AI hackers for your apps
 - [TheAuditor](https://github.com/TheAuditorTool/Auditor) - Offline-First, AI-Centric SAST & Code Intelligence Platform
 - [Eval Marketplace](https://github.com/JeredBlu/eval-marketplace) - Comprehensive security evaluation tools for agent skills and MCP servers, powered by GitHub and Bright Data integrations.
+- [Vet : Verify Everything](https://github.com/imbue-ai/vet) - a standalone verification tool for code changes and coding agent behavior.
 
 ## MCP Servers & Integrations
 
@@ -630,4 +633,5 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [Heavy3 Code Audit (`/h3`)](https://github.com/heavy3-ai/code-audit) - Agent skill that uses multi-model consensus to review plans, code, and PRs for coding agents
 - [setup-structure-index](https://github.com/shannonbay/setup-structure-index) - A Claude Code skill that sets up a two-tier codebase structure index for any project.
 - [pm-skills](https://github.com/product-on-purpose/pm-skills) - 24 plug-and-play product management agent skills with templates and workflow bundles, following the agentskills.io specification.
-| [Mysti](https://github.com/DeepMyst/Mysti) | Multi-agent AI coding assistant for VS Code with brainstorm mode | Claude Code, Codex, Gemini, Cline, GitHub Copilot |
+- [Mysti](https://github.com/DeepMyst/Mysti) - Multi-agent AI coding assistant for VS Code with brainstorm mode | Claude Code, Codex, Gemini, Cline, GitHub Copilot |
+

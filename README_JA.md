@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **498個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **504個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -121,6 +121,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - VS Code向けCopilot Chat拡張機能
 - [Claude Code Config](https://github.com/drewipson/claude-code-config) - Claude Code設定を管理するVS Code拡張機能
 - [Antigravity Quota Watcher](https://github.com/Henrik-3/AntigravityQuota) - Antigravity AIモデルの使用量クォータを監視してステータスバーに表示する軽量VS Code拡張機能
+- [Antigravity Pulse](https://github.com/codavidgarcia/antigravity-pulse) - 100%ローカル＆プライベート。超軽量。Antigravity Pro & Ultraユーザー向けのAIモデルクォータを一目で監視できる120KBのステータスバー拡張機能
+- [Pixel Agents](https://github.com/pablodelucca/pixel-agents) - AIコーディングエージェントをバーチャルオフィス内のアニメーションピクセルアートキャラクターとして表示するVS Code拡張機能
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Cursor AI IDEの動作を模倣するNeovimプラグイン
@@ -253,6 +255,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Strix](https://github.com/usestrix/strix) - 「AIハッカー」として機能するオープンソースのセキュリティエージェント。開発ワークフローに統合し、アプリケーションの脆弱性を能動的にテスト・発見する。ローカルで実行し、継続的なセキュリティテストを自動化できる
 - [TheAuditor](https://github.com/TheAuditorTool/Auditor) - オフラインファースト、AI中心のSAST＆コードインテリジェンスプラットフォーム
 - [Eval Marketplace](https://github.com/JeredBlu/eval-marketplace) - GitHubとBright Data統合を活用した、エージェントスキルとMCPサーバーの包括的なセキュリティ評価ツール
+- [Vet : Verify Everything](https://github.com/imbue-ai/vet) - コード変更とコーディングエージェントの動作を検証するスタンドアロン検証ツール
 
 ## MCPサーバー & 統合
 
@@ -366,6 +369,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [MetaSpec](https://github.com/ACNet-AI/MetaSpec) - AIエージェントが仕様駆動Xツールキットを自動的に生成するためのメタ仕様フレームワーク
 - [Clavix](https://github.com/ClavixDev/Clavix) - 曖昧なアイデアを本番環境対応プロンプトに変換。ギャップを分析し、PRDを生成し、CLEARフレームワークでAIコーディングワークフローを強化
 - [Claude Code Plan Export](https://github.com/kenryu42/claude-code-plan-export) - プランニング完了時にClaude Codeのプランをプロジェクトルートに自動保存
+- [Mantra](https://mantra.gonewx.com) - AIコーディングセッション向けタイムトラベルデバッガー。Claude Code、Cursor、Windsurf、Copilotのセッションをナビゲート可能なタイムラインとしてブランチ、スナップショット、復元
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - AI搭載カンバンボードでClaude Code、Gemini CLI、Codex、Ampなどのコーディングエージェントから10倍の成果を引き出す
 - [Planning with Files](https://github.com/OthmanAdi/planning-with-files) - プランニング、進捗追跡、ナレッジストレージ用の永続的なmarkdownファイルを使用するようワークフローを変革するClaude Codeスキル — Manusを数十億ドル企業にした手法
 - [AI-AfterImage](https://github.com/DragonShadows1978/AI-AfterImage) - AIコーディングエージェント向けのエピソディックメモリ。書かれたコードの残像がセッション間で持続
@@ -628,3 +632,4 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [Heavy3 Code Audit (`/h3`)](https://github.com/heavy3-ai/code-audit) - コーディングエージェントのプラン、コード、PRをマルチモデルコンセンサスでレビューするエージェントスキル
 - [setup-structure-index](https://github.com/shannonbay/setup-structure-index) - 任意のプロジェクト用に2段階のコードベース構造インデックスをセットアップするClaude Codeスキル
 - [pm-skills](https://github.com/product-on-purpose/pm-skills) - agentskills.io仕様に準拠した、24のプラグアンドプレイ型プロダクトマネジメントエージェントスキル（テンプレートとワークフローバンドル付き）
+- [Mysti](https://github.com/DeepMyst/Mysti) - VS Code向けマルチエージェントAIコーディングアシスタント（ブレインストームモード搭載）| Claude Code、Codex、Gemini、Cline、GitHub Copilot |
